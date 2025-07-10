@@ -1,0 +1,2 @@
+# talkingAI
+お話しできるAI
